@@ -1,0 +1,1160 @@
+
+Time: 2018/07/11 10:44:37
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 6291456, 6291456
+---------------------
+
+Time: 2018/07/23 14:03:49
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 8388608, 8388608
+---------------------
+
+Time: 2018/07/24 13:02:02
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/07/31 14:11:28
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 8388608, 8388608
+---------------------
+
+Time: 2018/08/03 09:20:47
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/08/03 16:39:47
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 18874368, 18874368
+---------------------
+
+Time: 2018/08/06 11:47:26
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/08/06 12:39:09
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/08/06 15:42:53
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 18874368, 18874368
+---------------------
+
+Time: 2018/08/08 16:20:50
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/08/13 08:55:01
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 80.215.85.66
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 29360128, 29360128
+---------------------
+
+Time: 2018/08/18 21:24:26
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 80.215.44.204
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/08/22 17:55:57
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 88.168.174.124
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/08/22 17:57:54
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 88.168.174.124
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/08/24 09:03:07
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/08/30 14:22:31
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/09/03 10:35:07
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 8388608, 8388608
+---------------------
+
+Time: 2018/09/05 10:09:41
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 109.190.73.244
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 31457280, 31457280
+---------------------
+
+Time: 2018/09/05 10:26:56
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 109.190.73.244
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/09/05 11:53:12
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 109.190.73.244
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/09/05 13:18:57
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 109.190.73.244
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 62914560, 62914560
+---------------------
+
+Time: 2018/09/05 14:54:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.245.227
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 23068672, 23068672
+---------------------
+
+Time: 2018/09/07 09:51:33
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 23068672, 23068672
+---------------------
+
+Time: 2018/09/07 16:48:13
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.245.227
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 27262976, 27262976
+---------------------
+
+Time: 2018/09/18 17:58:37
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.246.35
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 23068672, 23068672
+---------------------
+
+Time: 2018/09/19 23:00:28
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/09/19 23:00:44
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 31457280, 31457280
+---------------------
+
+Time: 2018/09/24 14:19:10
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 12582912, 12582912
+---------------------
+
+Time: 2018/09/24 15:00:43
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/09/28 18:15:56
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/10/02 11:43:55
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/02 11:44:02
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/02 11:44:12
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 35651584, 35651584
+---------------------
+
+Time: 2018/10/04 15:34:21
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/10/08 20:59:21
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 88.178.87.139
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 31457280, 31457280
+---------------------
+
+Time: 2018/10/09 09:41:37
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/09 16:52:16
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.244.11
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/10/09 16:52:16
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.244.11
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/10/09 16:54:22
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.244.11
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/10 11:13:25
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/10/12 08:59:54
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/23 15:07:59
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 35651584, 35651584
+---------------------
+
+Time: 2018/10/23 15:44:41
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 23068672, 23068672
+---------------------
+
+Time: 2018/10/23 15:44:50
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/10/23 16:09:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/23 16:09:10
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/10/24 01:01:58
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.246.179
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 48234496, 48234496
+---------------------
+
+Time: 2018/10/30 16:18:41
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 23068672, 23068672
+---------------------
+
+Time: 2018/11/08 09:44:37
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/11/08 09:44:48
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 6291456, 6291456
+---------------------
+
+Time: 2018/11/09 16:57:15
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 12582912, 12582912
+---------------------
+
+Time: 2018/11/14 20:12:46
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 90.113.37.156
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 6291456, 6291456
+---------------------
+
+Time: 2018/11/14 20:12:46
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 90.113.37.156
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 8388608, 8388608
+---------------------
+
+Time: 2018/11/19 09:26:11
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 14680064, 14680064
+---------------------
+
+Time: 2018/11/19 09:44:00
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 8388608, 8388608
+---------------------
+
+Time: 2018/11/19 09:44:05
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/11/21 11:28:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 92.184.102.35
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/11/21 11:28:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 92.184.102.35
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2018/11/21 11:28:14
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 92.184.102.35
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 14680064, 14680064
+---------------------
+
+Time: 2018/11/21 11:28:14
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 92.184.102.35
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 16777216, 16777216
+---------------------
+
+Time: 2018/11/21 11:28:30
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 92.184.102.35
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2018/11/26 06:55:12
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 16777216, 16777216
+---------------------
+
+Time: 2018/12/04 00:46:32
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.246.83
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/12/10 12:18:11
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 23068672, 23068672
+---------------------
+
+Time: 2018/12/16 10:25:58
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2018/12/18 15:27:09
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.244.251
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 14680064, 14680064
+---------------------
+
+Time: 2018/12/23 21:07:24
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 20971520, 20971520
+---------------------
+
+Time: 2018/12/26 14:26:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/01/03 15:52:33
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/01/07 13:32:37
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/01/07 15:47:31
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 6291456, 6291456
+---------------------
+
+Time: 2019/01/10 09:34:22
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2019/01/11 15:55:13
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/01/16 10:47:13
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 20971520, 20971520
+---------------------
+
+Time: 2019/01/16 10:47:18
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/01/16 11:08:00
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/01/16 11:08:08
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 217.13.52.38
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/02/01 15:41:47
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.246.227
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2019/02/04 15:44:29
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/02/08 11:40:39
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/02/12 14:58:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 20971520, 20971520
+---------------------
+
+Time: 2019/02/12 15:19:00
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/02/13 20:58:39
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.242.83
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/02/15 12:20:33
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 82.228.252.170
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 20971520, 20971520
+---------------------
+
+Time: 2019/02/15 12:20:39
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 82.228.252.170
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/02/16 08:46:26
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 78.63.239.58
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/02/18 16:37:54
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 6291456, 6291456
+---------------------
+
+Time: 2019/02/20 17:19:57
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.243.59
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 12582912, 12582912
+---------------------
+
+Time: 2019/02/22 11:54:19
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/02/25 11:06:33
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/02/27 14:09:04
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/02 07:21:57
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/03/04 09:06:32
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 20971520, 20971520
+---------------------
+
+Time: 2019/03/04 23:50:11
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.241.107
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 12582912, 12582912
+---------------------
+
+Time: 2019/03/06 09:12:25
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/06 16:44:19
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.242.11
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/03/08 12:09:17
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 4194304, 4194304
+---------------------
+
+Time: 2019/03/08 18:07:27
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 88.184.138.123
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 20971520, 20971520
+---------------------
+
+Time: 2019/03/08 18:07:42
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 88.184.138.123
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/03/08 18:08:25
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 88.184.138.123
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/11 10:55:26
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/03/12 23:33:21
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.245.251
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 6291456, 6291456
+---------------------
+
+Time: 2019/03/18 13:00:33
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 82.228.252.170
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/03/26 11:34:28
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 10485760, 10485760
+---------------------
+
+Time: 2019/03/27 13:38:14
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 178.213.64.34
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/27 13:38:27
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 178.213.64.34
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/27 13:38:43
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 178.213.64.34
+File Name: /home/digitalsov/www/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/27 19:48:03
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 82.102.19.216
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/03/28 23:02:59
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.245.59
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/01 20:29:38
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.246.155
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/01 21:14:37
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/03 14:51:36
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 178.213.64.35
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/05 15:14:34
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/08 14:49:24
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/08 23:06:08
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 177.226.243.107
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
+
+Time: 2019/04/15 09:09:27
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined variable: _SESSION
+IP Address: 176.168.176.206
+File Name: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/customer-area-terms-of-service/src/php/helpers/tos-forms-helper.class.php
+Line Number: 48
+Memory Used, Peak: 2097152, 2097152
+---------------------
